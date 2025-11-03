@@ -41,3 +41,7 @@ It showcases my skills, interests, and a bit of my fun personality — all in a 
 ![Contact](./imgg/sp4.png)
 
 ---
+## 🔗 Live Link
+
+Check out the live version of my portfolio here:  
+👉 [**Visit My Portfolio**](https://adityamahekar.github.io/Simple_Protfolio/)
