@@ -1,4 +1,4 @@
-# 🌄 Aditya Mahekar — Simple Personal Portfolio Website
+# 🌄 Simple Personal Portfolio Website
 
 A responsive and minimal **personal portfolio website** built using **HTML**, **CSS**.  
 It showcases my skills, interests, and a bit of my fun personality — all in a clean, interactive design.
