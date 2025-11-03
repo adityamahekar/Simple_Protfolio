@@ -9,7 +9,6 @@ It showcases my skills, interests, and a bit of my fun personality — all in a 
 ## 🚀 Features
 
 - 🧑‍💻 Responsive design — works smoothly on all devices  
-- 💬 Animated headings and hover effects  
 - 🎨 Custom theme colors with smooth transitions  
 - ⚡ Lightweight (pure HTML, CSS)  
 - 📬 Contact button linking directly to LinkedIn or email  
