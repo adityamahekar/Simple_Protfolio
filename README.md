@@ -5,21 +5,6 @@ It showcases my skills, interests, and a bit of my fun personality — all in a 
 
 ---
 
-## 🖼️ Preview
-
-### Landing Page  
-![Landing Page](./imgg/p37.png)
-
-### Profile Section  
-![Profile](./imgg/sp2.png)
-
-### Skills Section  
-![Skills](./imgg/sp3.png)
-
-### Contact Section  
-![Contact](./imgg/sp4.png)
-
----
 
 ## 🚀 Features
 
@@ -38,5 +23,21 @@ It showcases my skills, interests, and a bit of my fun personality — all in a 
 |-------------|-------------|
 | **HTML5** | Structure and layout of the site |
 | **CSS3** | Styling, animations, and responsiveness |
+
+---
+
+## 🖼️ Preview
+
+### Landing Page  
+![Landing Page](./imgg/sp1.png)
+
+### Profile Section  
+![Profile](./imgg/sp2.png)
+
+### Skills Section  
+![Skills](./imgg/sp3.png)
+
+### Contact Section  
+![Contact](./imgg/sp4.png)
 
 ---
